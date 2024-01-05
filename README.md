@@ -10,7 +10,7 @@ This guide will walk you through the steps to sync a BG3 campaign between multip
 
 2. Sign in to your GitHub account if you haven't already.
 
-3. Click on the "File" menu and select "Clone Repository".
+3. Click on the "File" menu and select "Clone Repository" then the "URL" tab.
 
 4. Enter the URL (https://github.com/aidanhoppe/Baldurs-Gate-JaDarius-Campaign) of the repository you want to clone.
 
