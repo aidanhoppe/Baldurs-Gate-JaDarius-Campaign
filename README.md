@@ -1,6 +1,6 @@
-# Cloning Repository using GitHub Desktop
+# Using Github Desktop for Baldur's Gate 3 saves
 
-This guide will walk you through the steps to clone a repository to your computer using GitHub Desktop.
+This guide will walk you through the steps to sync a BG3 campaign between multiple players using GitHub Desktop.
 
 ## Steps
 
@@ -12,19 +12,20 @@ This guide will walk you through the steps to clone a repository to your compute
 
 4. Enter the URL (https://github.com/aidanhoppe/Baldurs-Gate-JaDarius-Campaign) of the repository you want to clone.
 
-5. Choose the local path where you want to clone the repository. In this case it is /AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story. You can navigate here by entering "%appdata%" then navigate back to AppData and then Local->Larian Studios... as above.
+5. Choose the local path where you want to clone the repository. You can add it in one of two ways:
+
+   - 1. For local path, set it to "C:\Users\{USER}\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public\Savegames\Story". Where {USER} is replaced with the user on your computer. May need to change C -> D or whatever the name of your drive.
+   - 2. Or, Press "Choose" for local path and type "%appdata%" then Enter. Then navigate back to AppData and then Local->Larian Studios\...\Story, as above.
 
 6. Click on the "Clone" button to start the cloning process.
 
 7. Once the cloning process is complete, you can open Baldur's Gate and play the select the save.
 
-8. Open GitHub Desktop and select the Baldurs-Gate-JaDarius-Campaign repository.
+8. Before hosting gameplay, be sure to use "Fetch" on the top bar to ensure you are up to date. Then, if you can "Pull", do so to retrieve the latest game files.
 
-9. Before hosting gameplay, be sure to use "Fetch" on the top bar to ensure you are up to date. Then, if you can "Pull", do so to retrieve the latest game files.
+9. After hosting gameplay, commit the changes with a brief summary using the blue button (bottom left).
 
-10. After hosting gameplay, commit the changes with a brief summary using the blue button (bottom left).
-
-11. Use the top bar's "Push" to push the changes to the remote repository.
+10. Use the top bar's "Push" to push the changes to the remote repository. Now the remote files are synced with the updated save.
 
 That's it! You have successfully committed and pushed the new save files to the remote repository using GitHub Desktop. Your changes are now available to others who have access to the repository.
 
