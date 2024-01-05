@@ -25,11 +25,11 @@ This guide will walk you through the steps to sync a BG3 campaign between multip
 
 ### Normal Use
 
-8. Before hosting gameplay, be sure to use "Fetch" on the top bar to ensure you are up to date. Then, if you can "Pull", do so to retrieve the latest game files.
+1. Before hosting gameplay, be sure to use "Fetch" on the top bar to ensure you are up to date. Then, if you can "Pull", do so to retrieve the latest game files.
 
-9. After hosting gameplay, commit the changes with a brief summary using the blue button (bottom left).
+2. After hosting gameplay, commit the changes with a brief summary using the blue button (bottom left).
 
-10. Use the top bar's "Push" to push the changes to the remote repository. Now the remote files are synced with the updated save.
+3. Use the top bar's "Push" to push the changes to the remote repository. Now the remote files are synced with the updated save.
 
 That's it! You have successfully committed and pushed the new save files to the remote repository using GitHub Desktop. Your changes are now available to others who have access to the repository.
 
