@@ -16,10 +16,9 @@ This guide will walk you through the steps to sync a BG3 campaign between multip
 
 5. Enter the URL (https://github.com/aidanhoppe/Baldurs-Gate-JaDarius-Campaign) of the repository you want to clone.
 
-6. Choose the local path where you want to clone the repository. You can add it in one of two ways:
+6. For local path, set it to "C:\Users\\{USER}\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public\Savegames\Story". Where {USER} is replaced with the user on your computer. May need to change C -> D or whatever the name of your drive.
 
-   - 1. For local path, set it to "C:\Users\\{USER}\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public\Savegames\Story". Where {USER} is replaced with the user on your computer. May need to change C -> D or whatever the name of your drive.
-   - 2. Or, Press "Choose" for local path and type "%appdata%" then Enter. Then navigate back to AppData and then Local->Larian Studios\\...\Story, as above.
+   - 1. Or, Press "Choose" for local path and type "%appdata%" then Enter. Then navigate back to AppData and then Local->Larian Studios\\...\Story, as above.
 
 7. Click on the "Clone" button to start the cloning process.
 
