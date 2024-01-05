@@ -6,7 +6,7 @@ This guide will walk you through the steps to sync a BG3 campaign between multip
 
 ### Initial Setup
 
-1. Open GitHub Desktop on your computer.
+1. Open GitHub Desktop on your computer. (https://desktop.github.com/)
 
 2. Sign in to your GitHub account if you haven't already.
 
