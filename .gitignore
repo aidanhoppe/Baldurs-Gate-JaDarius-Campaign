@@ -1,0 +1,6 @@
+#Ignore everything except the save you want to reference (In this case it is the save associated with character JaDarius Quincy III)
+*
+!JaDarius Quincy III*
+!JaDarius Quincy III*/*
+!.gitignore
+!.gitattributes
