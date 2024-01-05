@@ -23,6 +23,8 @@ This guide will walk you through the steps to sync a BG3 campaign between multip
 
 7. Once the cloning process is complete, you can open Baldur's Gate and play the select the save.
 
+### Normal Use
+
 8. Before hosting gameplay, be sure to use "Fetch" on the top bar to ensure you are up to date. Then, if you can "Pull", do so to retrieve the latest game files.
 
 9. After hosting gameplay, commit the changes with a brief summary using the blue button (bottom left).
