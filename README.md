@@ -10,18 +10,22 @@ This guide will walk you through the steps to sync a BG3 campaign between multip
 
 2. Sign in to your GitHub account if you haven't already.
 
-3. Click on the "File" menu and select "Clone Repository" then the "URL" tab.
+3. Navigate to "C:\Users\\{USER}\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public\Savegames" and cast a Ctrl+c + Ctrl+v on the "Story" folder. Once Story-Copy exists, delete Story (yes).
 
-4. Enter the URL (https://github.com/aidanhoppe/Baldurs-Gate-JaDarius-Campaign) of the repository you want to clone.
+4. Click on the "File" menu and select "Clone Repository" then the "URL" tab.
 
-5. Choose the local path where you want to clone the repository. You can add it in one of two ways:
+5. Enter the URL (https://github.com/aidanhoppe/Baldurs-Gate-JaDarius-Campaign) of the repository you want to clone.
 
-   - 1. For local path, set it to "C:\Users\{USER}\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public\Savegames\Story". Where {USER} is replaced with the user on your computer. May need to change C -> D or whatever the name of your drive.
-   - 2. Or, Press "Choose" for local path and type "%appdata%" then Enter. Then navigate back to AppData and then Local->Larian Studios\...\Story, as above.
+6. Choose the local path where you want to clone the repository. You can add it in one of two ways:
 
-6. Click on the "Clone" button to start the cloning process.
+   - 1. For local path, set it to "C:\Users\\{USER}\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public\Savegames\Story". Where {USER} is replaced with the user on your computer. May need to change C -> D or whatever the name of your drive.
+   - 2. Or, Press "Choose" for local path and type "%appdata%" then Enter. Then navigate back to AppData and then Local->Larian Studios\\...\Story, as above.
 
-7. Once the cloning process is complete, you can open Baldur's Gate and play the select the save.
+7. Click on the "Clone" button to start the cloning process.
+
+8. Once the cloning process is complete, you can open your "Story-Copy" folder and copy-paste the files in to the new "Story" folder. Once Story contains the files from Story-Copy, delete Story-Copy.
+
+9. Now you can open your Baldur's Gate and play the select the save.
 
 ### Normal Use
 
