@@ -10,15 +10,15 @@ This guide will walk you through the steps to sync a BG3 campaign between multip
 
 2. Sign in to your GitHub account if you haven't already.
 
-3. Navigate to "C:\Users\\{USER}\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public\Savegames" and cast a Ctrl+c + Ctrl+v on the "Story" folder. Once Story-Copy exists, delete Story (yes).
+3. Navigate to "C:\Users\\{USER}\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public\Savegames" and cast a Ctrl+c + Ctrl+v on the "Story" folder. Once Story-Copy finishes creation, delete Story (yes).
 
-4. Click on the "File" menu and select "Clone Repository" then the "URL" tab.
+4. In Github Desktop, click on "File" and select "Clone Repository", then select the "URL" tab.
 
 5. Enter the URL (https://github.com/aidanhoppe/Baldurs-Gate-JaDarius-Campaign) of the repository you want to clone.
 
 6. For local path, set it to "C:\Users\\{USER}\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public\Savegames\Story". Where {USER} is replaced with the user on your computer. May need to change C -> D or whatever the name of your drive.
 
-   - 1. Or, Press "Choose" for local path and type "%appdata%" then Enter. Then navigate back to AppData and then Local->Larian Studios\\...\Story, as above.
+   - 1. Or, Press "Choose" for local path and type "%appdata%" then Enter. Then navigate back to AppData and then Local->Larian Studios\\...\Story, as above. Highlight the "Story" folder or create it if it does not exist and press "Select Folder". THEN, modify Local path so it ends in \Story NOT Baldurs-Gate-JaDarius-Campaign. Delete everything after \Story
 
 7. Click on the "Clone" button to start the cloning process.
 
